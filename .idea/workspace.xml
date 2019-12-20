@@ -2,211 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87b2d0b4-8a8e-47f4-a8b4-d65ee5274f13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestTryfinally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testCollections/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/TestLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/testStatic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/testStatic/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/testStatic/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/testStatic/IEatFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testThread/TestThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ncu/testCollections/TestArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ncu/testCollections/TestArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ncu/testCollections/TestArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testCollections/TestArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ncu/testIO/TestInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testIO/TestInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testKeyWord/TestFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestTryfinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testKeyWord/TestTryfinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ncu/testThread/TestThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ncu/testCollections/TestArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ncu/testIO/TestInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ncu/testThread/TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testProject.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1373132913">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.78" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="16" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="16" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gitignore" value="31" />
-          <entry key="java" value="599" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="599" />
-          <entry key="PLAIN_TEXT" value="31" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestFinal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestTryfinally.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/reflect/InvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/reflect/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="697" column="68" lean-forward="true" selection-start-line="697" selection-start-column="68" selection-end-line="697" selection-end-column="68" />
-              <folding>
-                <element signature="e#17078#17079#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Scala Object" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hashcod</find>
+      <find>removeAl</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ncu/testCollections/TestArrays.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestFinal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestTryfinally.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="H:/springboot/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="H:\springboot\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="localRepository" value="F:\Maven_repo" />
+        <option name="mavenHome" value="F:/maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1373" />
-    <option name="height" value="867" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ncu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ncu" type="462c0819:PsiDirectoryNode" />
-              <item name="testKeyWord" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1TkEosO2BnzRfNwDQXniPC7SHKo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Invocat&#9;PSI&#9;JAVA://java.lang.reflect.InvocationHandler&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="StackOver&#9;PSI&#9;JAVA://java.lang.StackOverflowError&#10;Throw&#9;PSI&#9;JAVA://java.lang.Throwable&#10;Reentr&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;AbstractQu&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ExecutorSe&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Class&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Class.java&#10;Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Object.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;ArrayList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java&#10;HashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/HashMap.java&#10;Objec&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Object.java&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Com&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Comparator.java&#10;Compar&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Comparable.java&#10;Concurren&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Compa&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Comparable.java&#10;Ob&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Object.java&#10;Runn&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Invocat&#9;PSI&#9;JAVA://java.lang.reflect.InvocationHandler&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571556526681" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573444339140" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\testBasic" />
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\scala\com\ncu\test\collection" />
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\java\com\ncu\testIO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\scala\com\ncu\test\absFactory" />
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\scala\com\ncu\test\factory" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -220,13 +106,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTryfinally">
-    <configuration name="TestArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testCollections.TestArrays" />
-      <module name="testProject" />
+  <component name="RunManager" selected="Application.TestSend">
+    <configuration name="MultiImple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testCommon.MultiImple" />
+      <module name="testBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.testCollections.*" />
+          <option name="PATTERN" value="com.ncu.testCommon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testKeyWord.TestFinal" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.test.sortAlogrithm.QuickSort" />
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.testKeyWord.*" />
+          <option name="PATTERN" value="com.ncu.test.sortAlogrithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,29 +133,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTryfinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testKeyWord.TestTryfinally" />
-      <module name="testProject" />
+    <configuration name="TestSend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testhttp.TestSend" />
+      <module name="testhttp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.testKeyWord.*" />
+          <option name="PATTERN" value="com.ncu.testhttp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesthttpApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testhttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncu.testhttp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncu.testhttp" />
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testhttp.TesthttpApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesthttpApplicationTests.sendToController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testhttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncu.testhttp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncu.testhttp" />
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testhttp.TesthttpApplicationTests" />
+      <option name="METHOD_NAME" value="sendToController" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesthttpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testhttp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ncu.testhttp.TesthttpApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestArrays" />
-      <item itemvalue="Application.TestFinal" />
-      <item itemvalue="Application.TestTryfinally" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.MultiImple" />
+      <item itemvalue="JUnit.TesthttpApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.TesthttpApplicationTests.sendToController" />
+      <item itemvalue="Spring Boot.TesthttpApplication" />
+      <item itemvalue="Application.TestSend" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestTryfinally" />
-        <item itemvalue="Application.TestFinal" />
-        <item itemvalue="Application.TestArrays" />
+        <item itemvalue="Application.TestSend" />
+        <item itemvalue="Application.MultiImple" />
+        <item itemvalue="JUnit.TesthttpApplicationTests.sendToController" />
+        <item itemvalue="JUnit.TesthttpApplicationTests.contextLoads" />
+        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -286,263 +216,61 @@
       <workItem from="1571485482295" duration="6414000" />
       <workItem from="1571554528861" duration="2139000" />
       <workItem from="1571567263037" duration="1371000" />
+      <workItem from="1571666108665" duration="427000" />
+      <workItem from="1571713048219" duration="9869000" />
+      <workItem from="1571831693056" duration="251000" />
+      <workItem from="1572090591162" duration="4607000" />
+      <workItem from="1572139788681" duration="6537000" />
+      <workItem from="1572270135610" duration="660000" />
+      <workItem from="1572341449170" duration="4661000" />
+      <workItem from="1572400453518" duration="20000" />
+      <workItem from="1572522051138" duration="596000" />
+      <workItem from="1572750208020" duration="3955000" />
+      <workItem from="1572828625350" duration="5635000" />
+      <workItem from="1573093386624" duration="5802000" />
+      <workItem from="1573128297348" duration="923000" />
+      <workItem from="1573180685307" duration="66000" />
+      <workItem from="1573441188898" duration="3746000" />
+      <workItem from="1573995872552" duration="44000" />
+      <workItem from="1573995920710" duration="179000" />
+      <workItem from="1573996449471" duration="428000" />
+      <workItem from="1573997181477" duration="1217000" />
+      <workItem from="1574040035004" duration="31000" />
+      <workItem from="1574132176962" duration="3558000" />
+      <workItem from="1575004748443" duration="1784000" />
+      <workItem from="1575016396244" duration="11000" />
+      <workItem from="1575017816663" duration="1610000" />
+      <workItem from="1575544730275" duration="2917000" />
+      <workItem from="1575875406159" duration="3707000" />
+      <workItem from="1575895698172" duration="1091000" />
+      <workItem from="1576206964810" duration="4653000" />
+      <workItem from="1576307283393" duration="3829000" />
+      <workItem from="1576374013115" duration="11000" />
+      <workItem from="1576463292819" duration="7545000" />
+      <workItem from="1576580518135" duration="2037000" />
+      <workItem from="1576631567064" duration="4829000" />
+      <workItem from="1576734432978" duration="6519000" />
+      <workItem from="1576758429594" duration="5479000" />
+      <workItem from="1576764003960" duration="789000" />
+      <workItem from="1576804801666" duration="4645000" />
+      <workItem from="1576825093519" duration="2850000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9924000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.35150167" visible="true" weight="0.2553305" />
-      <window_info id="Structure" order="1" sideWeight="0.64849836" side_tool="true" weight="0.2553305" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42491657" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/com/ncu/testIO/TestInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testIO/TestInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
-          <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testProject.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testCollections/TestArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30250">
-          <caret line="1430" column="44" selection-start-line="1430" selection-start-column="44" selection-end-line="1430" selection-end-column="44" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6424">
-          <caret line="322" column="5" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="5" />
-          <folding>
-            <element signature="e#7819#7820#0" expanded="true" />
-            <element signature="e#7872#7873#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/FunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4488">
-          <caret line="227" column="40" selection-start-line="227" selection-start-column="40" selection-end-line="227" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testThread/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestFinal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ncu/testKeyWord/TestTryfinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="697" column="68" lean-forward="true" selection-start-line="697" selection-start-column="68" selection-end-line="697" selection-end-column="68" />
-          <folding>
-            <element signature="e#17078#17079#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>testProject</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
