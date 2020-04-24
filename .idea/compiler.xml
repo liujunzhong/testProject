@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="testhttp" />
+        <module name="testIO" />
+        <module name="testNetty" />
         <module name="testBasic" />
       </profile>
     </annotationProcessing>

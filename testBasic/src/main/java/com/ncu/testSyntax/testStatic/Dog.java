@@ -10,8 +10,13 @@ public class Dog implements IEatFood {
     }
 
     public static void main(String[] args) {
-        IEatFood iEatFood = new Dog();
-        iEatFood.eat();
-        ((Dog) iEatFood).watchDoor();
+        Dog dog = new Dog();
+        ClassLoader classLoader = dog.getClass().getClassLoader();
+        System.out.println(classLoader.toString());
+        System.out.println(classLoader.getParent().toString());
+        System.out.println("------------------------");
+
+        String s = new String("aaa");
+        System.out.println(s.getClass().getClassLoader().toString());
     }
 }
