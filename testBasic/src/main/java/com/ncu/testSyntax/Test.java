@@ -1,6 +1,7 @@
 package com.ncu.testSyntax;
 
 import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @Author ljz
@@ -9,9 +10,19 @@ import java.util.HashMap;
  **/
 public class Test {
     public static void main(String[] args) {
-        System.out.println('a' - 0);
-        int res = StrToInt("2147483649");
-        System.out.println(res);
+//        System.out.println('a' - 0);
+//        int res = StrToInt("2147483649");
+//        System.out.println(res);
+
+//        Son son = new Son();
+
+        ConcurrentHashMap<String, String> map = new ConcurrentHashMap<>();
+        map.put("aaa","aaa");
+        map.put("bbb","bbb");
+        String aaa = map.get("aaa");
+
+
+
     }
 
 

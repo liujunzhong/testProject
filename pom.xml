@@ -12,6 +12,8 @@
         <module>testBasic</module>
         <module>testNetty</module>
         <module>testIO</module>
+        <module>algorithm</module>
+        <module>testSpringBoot</module>
     </modules>
 
     <dependencies>

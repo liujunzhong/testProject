@@ -5,14 +5,19 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/testStatic/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/testStatic/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/test/sortAlogrithm/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testCollections/TestArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testCollections/TestArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testCommon/InterfaceB.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testCommon/InterfaceB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testCommon/MultiImple.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testCommon/MultiImple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testKeyWord/TestTryfinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testKeyWord/TestTryfinally.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/testStatic/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/testStatic/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/testBasic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/designPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/designPattern/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/alogrithm/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/alogrithm/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testIO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testIO/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testIO/target/classes/com/ncu/BioDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/testIO/target/classes/com/ncu/BioDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +80,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573444339140" />
-    <property name="last_opened_file_path" value="G:/ideaworkspace/apt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testThread" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -86,6 +91,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\testBasic\src\main\java\com\ncu\testThread" />
+      <recent name="F:\IntelliJ_IDEA\workspace\testProject\testBasic\src\main\java\com\ncu\producerConsumer" />
       <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\scala\com\ncu\test\absFactory" />
       <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\scala\com\ncu\test\factory" />
     </key>
@@ -95,13 +102,39 @@
       <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\java\com\ncu\testIO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SynchronoutQueueDemo">
-    <configuration name="MaxCommonString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.alogrithm.MaxCommonString" />
+  <component name="RunManager" selected="Application.FinalDemo">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.A" />
       <module name="testBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.alogrithm.*" />
+          <option name="PATTERN" value="com.ncu.testSyntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.FinalDemo" />
+      <module name="testBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncu.testSyntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestUnrepeateStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.other.LongestUnrepeateStr" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncu.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +143,11 @@
       </method>
     </configuration>
     <configuration name="ProxyHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.designPattern.ProxyHandler" />
+      <option name="MAIN_CLASS_NAME" value="com.ncu.proxy.ProxyHandler" />
       <module name="testBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.designPattern.*" />
+          <option name="PATTERN" value="com.ncu.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,38 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronoutQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testCollections.SynchronoutQueueDemo" />
+    <configuration name="TestFanShe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testThread.TestFanShe" />
       <module name="testBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.testCollections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.TestFor" />
-      <module name="testBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ncu.testSyntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.TestTryCatch" />
-      <module name="testBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ncu.testSyntax.*" />
+          <option name="PATTERN" value="com.ncu.testThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,20 +185,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.TimeClient" />
-      <item itemvalue="Application.TestTryCatch" />
-      <item itemvalue="Application.TestFor" />
-      <item itemvalue="Application.MaxCommonString" />
+      <item itemvalue="Application.TestFanShe" />
+      <item itemvalue="Application.LongestUnrepeateStr" />
+      <item itemvalue="Application.A" />
       <item itemvalue="Application.ProxyHandler" />
-      <item itemvalue="Application.SynchronoutQueueDemo" />
       <item itemvalue="Spring Boot.TesthttpApplication" />
+      <item itemvalue="Application.FinalDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SynchronoutQueueDemo" />
+        <item itemvalue="Application.FinalDemo" />
         <item itemvalue="Application.ProxyHandler" />
-        <item itemvalue="Application.MaxCommonString" />
-        <item itemvalue="Application.TestFor" />
-        <item itemvalue="Application.TestTryCatch" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.LongestUnrepeateStr" />
+        <item itemvalue="Application.TestFanShe" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +316,61 @@
       <workItem from="1586956126489" duration="1145000" />
       <workItem from="1586996501459" duration="1217000" />
       <workItem from="1587648469713" duration="2504000" />
+      <workItem from="1587718601646" duration="2422000" />
+      <workItem from="1587791256553" duration="2840000" />
+      <workItem from="1587802165046" duration="37000" />
+      <workItem from="1587859676567" duration="6112000" />
+      <workItem from="1587902285400" duration="5904000" />
+      <workItem from="1588034415917" duration="2511000" />
+      <workItem from="1588412634021" duration="2911000" />
+      <workItem from="1588549706375" duration="2080000" />
+      <workItem from="1589804354261" duration="694000" />
+      <workItem from="1589847546398" duration="2185000" />
+      <workItem from="1589940494111" duration="1360000" />
+      <workItem from="1589977275130" duration="1635000" />
+      <workItem from="1590545364267" duration="3953000" />
+      <workItem from="1590630679253" duration="8790000" />
+      <workItem from="1590712185707" duration="3209000" />
+      <workItem from="1590798564630" duration="1298000" />
+      <workItem from="1590887849898" duration="5175000" />
+      <workItem from="1591001848429" duration="2008000" />
+      <workItem from="1591079093246" duration="7111000" />
+      <workItem from="1591148162887" duration="1525000" />
+      <workItem from="1591186304396" duration="2656000" />
+      <workItem from="1591228981079" duration="614000" />
+      <workItem from="1591232730878" duration="2440000" />
+      <workItem from="1591263424561" duration="1299000" />
+      <workItem from="1591326295409" duration="3484000" />
+      <workItem from="1591406349560" duration="642000" />
+      <workItem from="1591528953449" duration="2726000" />
+      <workItem from="1591579249223" duration="3688000" />
+      <workItem from="1591688091914" duration="5402000" />
+      <workItem from="1591788914170" duration="47000" />
+      <workItem from="1591882512280" duration="1892000" />
+      <workItem from="1591932966620" duration="2112000" />
+      <workItem from="1592104934767" duration="1992000" />
+      <workItem from="1592184843605" duration="1686000" />
+      <workItem from="1592213688367" duration="36000" />
+      <workItem from="1593226131797" duration="4627000" />
+      <workItem from="1593343943961" duration="3317000" />
+      <workItem from="1593402863019" duration="1408000" />
+      <workItem from="1593480441791" duration="4737000" />
+      <workItem from="1593583467543" duration="7235000" />
+      <workItem from="1593650207581" duration="6117000" />
+      <workItem from="1593744043715" duration="10479000" />
+      <workItem from="1593849942524" duration="4919000" />
+      <workItem from="1593913700963" duration="3249000" />
+      <workItem from="1593999555435" duration="9147000" />
+      <workItem from="1594084068124" duration="11270000" />
+      <workItem from="1594177407569" duration="5371000" />
+      <workItem from="1594210671040" duration="2475000" />
+      <workItem from="1594266863751" duration="4846000" />
+      <workItem from="1594347897991" duration="1256000" />
+      <workItem from="1594368002742" duration="7579000" />
+      <workItem from="1594435516197" duration="4807000" />
+      <workItem from="1594521868420" duration="2305000" />
+      <workItem from="1594604894280" duration="3923000" />
+      <workItem from="1594697107213" duration="4531000" />
     </task>
     <servers />
   </component>
@@ -329,62 +391,74 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1584168836013">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594698017625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584168836013" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583199966739">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594698017625" />
+    <state width="422" height="466" key="DebuggerActiveHint" timestamp="1593235480904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583199966739" />
-    <state width="1877" height="386" key="GridCell.Tab.0.bottom" timestamp="1587650975616">
+    <state width="422" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593235480904" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1587796093010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state width="1877" height="386" key="GridCell.Tab.0.center" timestamp="1587650975616">
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587796093010" />
+    <state width="1860" height="369" key="GridCell.Tab.0.bottom" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state width="1877" height="386" key="GridCell.Tab.0.left" timestamp="1587650975615">
+    <state width="1860" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.0.center" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975615" />
-    <state width="1877" height="386" key="GridCell.Tab.0.right" timestamp="1587650975616">
+    <state width="1860" height="369" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.0.left" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state width="1877" height="386" key="GridCell.Tab.1.bottom" timestamp="1587650975616">
+    <state width="1860" height="369" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.0.right" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state width="1877" height="386" key="GridCell.Tab.1.center" timestamp="1587650975616">
+    <state width="1860" height="369" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.1.bottom" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state width="1877" height="386" key="GridCell.Tab.1.left" timestamp="1587650975616">
+    <state width="1860" height="369" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.1.center" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state width="1877" height="386" key="GridCell.Tab.1.right" timestamp="1587650975616">
+    <state width="1860" height="369" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.1.left" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="386" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650975616" />
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1586996506552">
+    <state width="1860" height="369" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1860" height="369" key="GridCell.Tab.1.right" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586996506552" />
-    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584520658601">
+    <state width="1860" height="369" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state x="531" y="189" key="Registry" timestamp="1594371145889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584520658601" />
-    <state x="334" y="224" key="new project wizard" timestamp="1585565764497">
+    <state x="531" y="189" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1594371145889" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1594697133453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585565764497" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586915344169">
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594697133453" />
+    <state x="761" y="212" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594211311257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586915344169" />
+    <state x="761" y="212" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594211311257" />
+    <state x="334" y="224" key="new project wizard" timestamp="1594627665321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594627665321" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1591882790398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591882790398" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594718338723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594718338723" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,6 +472,22 @@
           <url>file://$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/MaxCommonString.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/Test.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/HappyNum.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/SqrtDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
