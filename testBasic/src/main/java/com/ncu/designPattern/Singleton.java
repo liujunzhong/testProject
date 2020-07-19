@@ -4,7 +4,7 @@ package com.ncu.designPattern;
  * DCL,双锁检测
  */
 public class Singleton {
-    public static volatile Singleton instance;
+    private static volatile Singleton instance;
 
     private Singleton(){}
 

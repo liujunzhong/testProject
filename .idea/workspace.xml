@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87b2d0b4-8a8e-47f4-a8b4-d65ee5274f13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/alogrithm/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/designPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/designPattern/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/alogrithm/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/alogrithm/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testIO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testIO/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testIO/target/classes/com/ncu/BioDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/testIO/target/classes/com/ncu/BioDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/FinalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/TestTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/TestTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/designPattern/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/designPattern/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/TestTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/TestTryCatch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +94,7 @@
       <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\java\com\ncu\testIO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalDemo">
+  <component name="RunManager" selected="Application.TestTryCatch">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.A" />
       <module name="testBasic" />
@@ -155,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFanShe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testThread.TestFanShe" />
+    <configuration name="TestTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.TestTryCatch" />
       <module name="testBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.testThread.*" />
+          <option name="PATTERN" value="com.ncu.testSyntax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,20 +177,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.TimeClient" />
-      <item itemvalue="Application.TestFanShe" />
       <item itemvalue="Application.LongestUnrepeateStr" />
       <item itemvalue="Application.A" />
       <item itemvalue="Application.ProxyHandler" />
-      <item itemvalue="Spring Boot.TesthttpApplication" />
       <item itemvalue="Application.FinalDemo" />
+      <item itemvalue="Application.TestTryCatch" />
+      <item itemvalue="Spring Boot.TesthttpApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestTryCatch" />
         <item itemvalue="Application.FinalDemo" />
         <item itemvalue="Application.ProxyHandler" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.LongestUnrepeateStr" />
-        <item itemvalue="Application.TestFanShe" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +362,11 @@
       <workItem from="1594435516197" duration="4807000" />
       <workItem from="1594521868420" duration="2305000" />
       <workItem from="1594604894280" duration="3923000" />
-      <workItem from="1594697107213" duration="4531000" />
+      <workItem from="1594697107213" duration="5818000" />
+      <workItem from="1594791493960" duration="2374000" />
+      <workItem from="1594952511200" duration="6408000" />
+      <workItem from="1595043548820" duration="612000" />
+      <workItem from="1595123529037" duration="1008000" />
     </task>
     <servers />
   </component>
@@ -399,26 +395,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="422" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593235480904" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1587796093010">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1594803182645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587796093010" />
-    <state width="1860" height="369" key="GridCell.Tab.0.bottom" timestamp="1594390543190">
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594803182645" />
+    <state width="1877" height="71" key="GridCell.Tab.0.bottom" timestamp="1594992906975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
-    <state width="1860" height="369" key="GridCell.Tab.0.center" timestamp="1594390543190">
+    <state width="1877" height="71" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
+    <state width="1877" height="71" key="GridCell.Tab.0.center" timestamp="1594992906975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="369" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
-    <state width="1860" height="369" key="GridCell.Tab.0.left" timestamp="1594390543190">
+    <state width="1877" height="71" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
+    <state width="1877" height="71" key="GridCell.Tab.0.left" timestamp="1594992906975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="369" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
-    <state width="1860" height="369" key="GridCell.Tab.0.right" timestamp="1594390543190">
+    <state width="1877" height="71" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
+    <state width="1877" height="71" key="GridCell.Tab.0.right" timestamp="1594992906975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="369" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594390543190" />
+    <state width="1877" height="71" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
     <state width="1860" height="369" key="GridCell.Tab.1.bottom" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -439,10 +435,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="189" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1594371145889" />
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1594697133453">
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1595052371799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594697133453" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595052371799" />
     <state x="761" y="212" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594211311257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -455,10 +451,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591882790398" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594718338723">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594980193023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594718338723" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594980193023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

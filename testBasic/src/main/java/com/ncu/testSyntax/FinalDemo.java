@@ -3,10 +3,15 @@ package com.ncu.testSyntax;
 public class FinalDemo {
 
     public static void main(String[] args) {
-        final FinalClass finalClass = new FinalClass();
-        finalClass.setA("ccc");
-        System.out.println(finalClass.a);
-        System.out.println(finalClass.num);
+//        final FinalClass finalClass = new FinalClass();
+//        finalClass.setA("ccc");
+//        System.out.println(finalClass.a);
+//        System.out.println(finalClass.num);
+        Integer a = new Integer(7);
+        int b = 7;
+        System.out.println(a == b);
+
+
     }
 }
 class FinalClass{
