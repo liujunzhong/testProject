@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="87b2d0b4-8a8e-47f4-a8b4-d65ee5274f13" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/designPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/designPattern/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/FinalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/TestTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testSyntax/TestTryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/designPattern/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/designPattern/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/FinalDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/TestTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testSyntax/TestTryCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testThread/DeathLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testThread/DeathLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testThread/PrintABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/src/main/java/com/ncu/testThread/PrintABC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testThread/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testThread/DeathLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testThread/DeathLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testThread/PrintABC$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testThread/PrintABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/testBasic/target/classes/com/ncu/testThread/PrintABC.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,39 +93,13 @@
       <recent name="F:\IntelliJ_IDEA\workspace\testProject\src\main\java\com\ncu\testIO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestTryCatch">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.A" />
-      <module name="testBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ncu.testSyntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.FinalDemo" />
-      <module name="testBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ncu.testSyntax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestUnrepeateStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.other.LongestUnrepeateStr" />
+  <component name="RunManager" selected="Application.InsertSort">
+    <configuration name="ComparingIntDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.syntax.ComparingIntDemo" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.other.*" />
+          <option name="PATTERN" value="com.ncu.syntax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.proxy.ProxyHandler" />
-      <module name="testBasic" />
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.sort.InsertSort" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.proxy.*" />
+          <option name="PATTERN" value="com.ncu.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +120,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ncu.testSyntax.TestTryCatch" />
+    <configuration name="Polymorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.syntax.Polymorphic" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncu.syntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.testThread.PrintABC" />
       <module name="testBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ncu.testSyntax.*" />
+          <option name="PATTERN" value="com.ncu.testThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ncu.array.Subarray" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncu.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,20 +176,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.TimeClient" />
-      <item itemvalue="Application.LongestUnrepeateStr" />
-      <item itemvalue="Application.A" />
-      <item itemvalue="Application.ProxyHandler" />
-      <item itemvalue="Application.FinalDemo" />
-      <item itemvalue="Application.TestTryCatch" />
+      <item itemvalue="Application.Polymorphic" />
+      <item itemvalue="Application.ComparingIntDemo" />
+      <item itemvalue="Application.PrintABC" />
+      <item itemvalue="Application.Subarray" />
       <item itemvalue="Spring Boot.TesthttpApplication" />
+      <item itemvalue="Application.InsertSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestTryCatch" />
-        <item itemvalue="Application.FinalDemo" />
-        <item itemvalue="Application.ProxyHandler" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.LongestUnrepeateStr" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.Subarray" />
+        <item itemvalue="Application.PrintABC" />
+        <item itemvalue="Application.ComparingIntDemo" />
+        <item itemvalue="Application.Polymorphic" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +366,15 @@
       <workItem from="1594952511200" duration="6408000" />
       <workItem from="1595043548820" duration="612000" />
       <workItem from="1595123529037" duration="1008000" />
+      <workItem from="1595157332898" duration="1749000" />
+      <workItem from="1595205290247" duration="705000" />
+      <workItem from="1595376726017" duration="6139000" />
+      <workItem from="1595408610012" duration="2389000" />
+      <workItem from="1595470937102" duration="4782000" />
+      <workItem from="1595638386016" duration="9323000" />
+      <workItem from="1595728022746" duration="674000" />
+      <workItem from="1595732597318" duration="4180000" />
+      <workItem from="1595856352821" duration="224000" />
     </task>
     <servers />
   </component>
@@ -387,10 +395,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594698017625">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1595638501668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594698017625" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595638501668" />
     <state width="422" height="466" key="DebuggerActiveHint" timestamp="1593235480904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -399,22 +407,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594803182645" />
-    <state width="1877" height="71" key="GridCell.Tab.0.bottom" timestamp="1594992906975">
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom" timestamp="1595770225984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="71" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
-    <state width="1877" height="71" key="GridCell.Tab.0.center" timestamp="1594992906975">
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595770225984" />
+    <state width="1877" height="341" key="GridCell.Tab.0.center" timestamp="1595770225983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="71" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
-    <state width="1877" height="71" key="GridCell.Tab.0.left" timestamp="1594992906975">
+    <state width="1877" height="341" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595770225983" />
+    <state width="1877" height="341" key="GridCell.Tab.0.left" timestamp="1595770225983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="71" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
-    <state width="1877" height="71" key="GridCell.Tab.0.right" timestamp="1594992906975">
+    <state width="1877" height="341" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595770225983" />
+    <state width="1877" height="341" key="GridCell.Tab.0.right" timestamp="1595770225984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="71" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594992906975" />
+    <state width="1877" height="341" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595770225984" />
     <state width="1860" height="369" key="GridCell.Tab.1.bottom" timestamp="1594390543190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -435,10 +443,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="189" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1594371145889" />
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1595052371799">
+    <state x="681" y="261" width="567" height="524" key="StructurePopup" timestamp="1595733079144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595052371799" />
+    <state x="681" y="261" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1595733079144" />
+    <state x="759" y="301" key="chooseDestDirectoryDialog" timestamp="1595377582076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="301" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595377582076" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1595728844165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595728844165" />
     <state x="761" y="212" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594211311257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -451,10 +467,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591882790398" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594980193023">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595733056754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594980193023" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595733056754" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
