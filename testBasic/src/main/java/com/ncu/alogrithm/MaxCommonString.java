@@ -10,10 +10,10 @@ import java.util.concurrent.ConcurrentHashMap;
  **/
 public class MaxCommonString {
     public static void main(String[] args) {
-//        System.out.println(getMaxCommonString("1234ABCD4567","ABE12345D6"));
-        Map<String,String> map =  new ConcurrentHashMap<>();
-        map.put("key1","value1");
-        System.out.println(map.get("key1"));
+        System.out.println(getMaxCommonString("1234ABCD4567","ABE12345D6"));
+//        Map<String,String> map =  new ConcurrentHashMap<>();
+//        map.put("key1","value1");
+//        System.out.println(map.get("key1"));
 
 
 
